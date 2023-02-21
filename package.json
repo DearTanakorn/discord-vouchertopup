@@ -8,7 +8,7 @@
   "private": false,
   "description": "TrueWallet voucher topup for discord.js",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0"
   }
